@@ -27,5 +27,7 @@ Power BI Dashboard Creation: Utilize the extracted insights to design an interac
 PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
 
 
+# --DashBoard Creation--
+Here is the main dashboard which is dynamic in nature and the slicer added
 
 
