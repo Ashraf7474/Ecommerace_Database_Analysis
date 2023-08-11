@@ -26,6 +26,10 @@ Power BI Dashboard Creation: Utilize the extracted insights to design an interac
 
 PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
 
+# --Schema--
+
+![E-commerace Database Schema ](https://github.com/Ashraf7474/Prosper_Loan_EDA_Analysis/assets/131772000/275724ca-a8e4-44ae-8500-47532969df61)
+
 # --Sql Query--
 
 [E-commerace query.txt](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/files/12318477/E-commerace.query.txt)
