@@ -26,8 +26,15 @@ Power BI Dashboard Creation: Utilize the extracted insights to design an interac
 
 PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
 
+# --Sql Query--
+
+[E-commerace query.txt](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/files/12318477/E-commerace.query.txt)
+
+
 
 # --DashBoard Creation--
 Here is the main dashboard which is dynamic in nature and the slicer added
+
+![E-commerace Dashboard Image](https://github.com/Ashraf7474/Swiggy_Restrauant_Recommendation_Model/assets/131772000/4ffc6a7f-d1ac-4cd7-b755-7a5789f6da20)
 
 
