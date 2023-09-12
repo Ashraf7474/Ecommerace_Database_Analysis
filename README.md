@@ -5,13 +5,6 @@
 #  Tools & Technology Used
 ![image](https://github.com/Sudhansu352010/Ecommerce-Data-Analysis-By-using-Sql/assets/131376814/964ff773-111f-4f9b-9283-f06ea680d192)
 
-# Problem Statement
-
-To conduct an in-depth analysis of E-commerce data and gain valuable insights, we will utilize SQL queries to extract key metrics 
-such as Profits, highest sales, new customers, revenue, top-selling products, and highest profit margins from the database. 
-Using this data, we will create an interactive and visually appealing PowerBi dashboard to showcase significant trends and 
-performance indicators. The dashboard will offer a comprehensive view of the E-commerce performance, 
-highlighting essential insights that can drive strategic decision-making and optimize business operations.
 
 # Our Approach For The Project
 ![image](https://github.com/Sudhansu352010/Ecommerce-Data-Analysis-By-using-Sql/assets/131376814/ff417b46-2ab8-4e1b-92e7-f674464acd37)
@@ -20,8 +13,34 @@ highlighting essential insights that can drive strategic decision-making and opt
 # Data Dictionary
 ![Capture55](https://github.com/Ashraf7474/Ecommerace_Database_Analysis/assets/131772000/73384311-b2b5-432e-bab3-aab343b1be84)
 
+# --Introduction--
 
-# Methodology
+In this comprehensive E-commerce database analysis, we delve into the performance metrics of the platform to gain profound insights. We focus on critical indicators including highest sales, new customer acquisitions, revenue generation, top-selling products, and products with the highest profit margins. By harnessing the power of SQL queries, we extract valuable information from the database. Subsequently, we transform this data into an interactive and visually compelling Power BI dashboard. This dashboard serves as a window into the underlying data, providing a clear and actionable understanding of the platform's performance dynamics.
+
+# --Problem aimed to solve--
+
+Our analysis endeavors to provide a deeper understanding of the E-commerce platform's performance by dissecting vital metrics like sales, customer acquisition, revenue, and product profitability. Through an interactive Power BI dashboard, we intend to offer stakeholders actionable insights for informed decision-making and strategic enhancements, fostering the platform's growth and optimization.
+
+# --Data Description-- 
+
+The database comprises multiple CSV files containing diverse datasets, including customer information, order details, payment types, product data, order item specifics, shipper details, and seller records. These files collectively offer a comprehensive view of your e-commerce operations, enabling comprehensive analysis and informed decision-making.
+
+# --Methodology--
+
+The project methodology involves crafting SQL queries to extract meaningful insights from the diverse CSV files, followed by the creation of an interactive dashboard. This approach leverages data analysis and visualization to provide actionable information for informed decision-making and strategic planning.
+
+# --Phases--
+
+Data Collection: Acquire the comprehensive database from Kaggle, encompassing multiple CSV files containing essential information such as customer data, order details, payment types, product data, and more.
+
+SQL Query Development: Craft intricate SQL queries to efficiently extract valuable insights from the diverse datasets. These queries will uncover trends, relationships, and patterns within the data, providing a solid foundation for analysis.
+
+Power BI Dashboard Creation: Utilize the extracted insights to design an interactive and visually engaging Power BI dashboard. This dashboard will present a comprehensive view of the e-commerce operations, offering stakeholders the ability to explore data and gain actionable insights.
+
+PowerPoint Presentation: Compile the project's findings, methodologies, and dashboard visuals into a concise PowerPoint presentation. This presentation will serve as a medium to effectively communicate the project's results, insights, and potential business implications.
+
+
+
 # SQL Query Snapshot
 ![image](https://github.com/Sudhansu352010/Ecommerce-Data-Analysis-By-using-Sql/assets/131376814/fad3d2d8-f760-43ec-9bbe-7e58e9928275)
 
