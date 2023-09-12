@@ -18,7 +18,8 @@ highlighting essential insights that can drive strategic decision-making and opt
 
 
 # Data Dictionary
-![image](https://github.com/Sudhansu352010/Ecommerce-Data-Analysis-By-using-Sql/assets/131376814/c7b7a788-40ea-4f4c-a8c0-5b5b563b9a8e)
+![Capture55](https://github.com/Ashraf7474/Ecommerace_Database_Analysis/assets/131772000/73384311-b2b5-432e-bab3-aab343b1be84)
+
 
 # Methodology
 # SQL Query Snapshot
