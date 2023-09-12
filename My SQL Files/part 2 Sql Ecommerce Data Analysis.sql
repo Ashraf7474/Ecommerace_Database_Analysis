@@ -1,4 +1,4 @@
-use cricket_db_database;
+
 # Ecommerce Database Analysis by using SQL Query 
 ##Some easy type questions that necessary for project consideration
 
