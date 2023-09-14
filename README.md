@@ -241,6 +241,13 @@ Here is the main dashboard which is dynamic in nature and the slicer added
 14. Stainless steel Contura pressure cooker products generate the maximum revenue, while Marie Light Oats Biscuits generate the least revenue in terms of product.
 
 
+# Challenges Faced
+
+In this comprehensive E-commerce database analysis project, our objective is to leverage SQL queries to extract crucial insights from a multitude of CSV files, covering customer data, order details, payment types, product information, and more. These insights will be transformed into an interactive Power BI dashboard, providing stakeholders with a clear understanding of sales, customer acquisition, revenue generation, and product profitability.
+
+Throughout the project, we anticipate challenges such as data quality issues, the complexity of SQL queries, and the design of an effective dashboard. We will address these challenges by implementing data cleaning techniques, breaking down complex queries, and following best practices in data visualization. Our ultimate goal is to empower decision-makers with actionable insights, fostering the growth and optimization of the E-commerce platform while ensuring data privacy and compliance with security protocols.
+
+
 
 
 
