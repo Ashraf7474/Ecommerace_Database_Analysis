@@ -13,7 +13,7 @@
 # Data Dictionary
 ![Capture55](https://github.com/Ashraf7474/Ecommerace_Database_Analysis/assets/131772000/73384311-b2b5-432e-bab3-aab343b1be84)
 
-# --Introduction--
+# --Introduction-- 
 
 In this comprehensive E-commerce database analysis, we delve into the performance metrics of the platform to gain profound insights. We focus on critical indicators including highest sales, new customer acquisitions, revenue generation, top-selling products, and products with the highest profit margins. By harnessing the power of SQL queries, we extract valuable information from the database. Subsequently, we transform this data into an interactive and visually compelling Power BI dashboard. This dashboard serves as a window into the underlying data, providing a clear and actionable understanding of the platform's performance dynamics.
 
