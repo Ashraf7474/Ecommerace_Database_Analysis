@@ -1,3 +1,5 @@
+# Ecommerce Database Analysis by using SQL Query 
+
 # Part A  (Easy question)
 
 # How many orders were placed in the last month of 2021?
