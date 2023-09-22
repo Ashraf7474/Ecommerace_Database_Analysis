@@ -11,7 +11,8 @@
 
 
 # Data Dictionary
-![Capture55](https://github.com/Ashraf7474/Ecommerace_Database_Analysis/assets/131772000/73384311-b2b5-432e-bab3-aab343b1be84)
+![image](https://github.com/Ashraf7474/Ecommerace_Database_Analysis/assets/131772000/08add495-d665-4e12-93f7-42f057f46486)
+
 
 # --Introduction-- 
 
