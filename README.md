@@ -9,7 +9,7 @@
 # Our Approach For The Project
 ![image](https://github.com/Sudhansu352010/Ecommerce-Data-Analysis-By-using-Sql/assets/131376814/ff417b46-2ab8-4e1b-92e7-f674464acd37)
 
-
+ 
 # Data Dictionary
 ![image](https://github.com/Ashraf7474/Ecommerace_Database_Analysis/assets/131772000/08add495-d665-4e12-93f7-42f057f46486)
 
